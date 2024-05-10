@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T14:16:09 IST" name="Suite" finished-at="2024-05-08T14:17:26 IST" duration-ms="76738">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T14:16:09 IST" name="Test" finished-at="2024-05-08T14:17:26 IST" duration-ms="76738">
+      <class name="Hackathon_Project.TestClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:10 IST" name="setUp" finished-at="2024-05-08T14:16:17 IST" duration-ms="7257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="bookshelf()[pri:1, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:17 IST" name="bookshelf" finished-at="2024-05-08T14:16:22 IST" duration-ms="4776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookshelf -->
+        <test-method signature="PopUp()[pri:2, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:22 IST" name="PopUp" finished-at="2024-05-08T14:16:25 IST" duration-ms="3628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopUp -->
+        <test-method signature="storageDropown()[pri:3, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:25 IST" name="storageDropown" finished-at="2024-05-08T14:16:28 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storageDropown -->
+        <test-method signature="OpenType()[pri:4, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:28 IST" name="OpenType" finished-at="2024-05-08T14:16:30 IST" duration-ms="2682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenType -->
+        <test-method signature="Exclude_out_of_stock()[pri:5, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:30 IST" name="Exclude_out_of_stock" finished-at="2024-05-08T14:16:33 IST" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exclude_out_of_stock -->
+        <test-method signature="Details()[pri:6, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:33 IST" name="Details" finished-at="2024-05-08T14:16:36 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method signature="collections()[pri:7, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:36 IST" name="collections" finished-at="2024-05-08T14:16:42 IST" duration-ms="6238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collections -->
+        <test-method signature="SubMenu()[pri:8, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:42 IST" name="SubMenu" finished-at="2024-05-08T14:16:47 IST" duration-ms="5432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubMenu -->
+        <test-method signature="giftcards()[pri:9, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:47 IST" name="giftcards" finished-at="2024-05-08T14:16:56 IST" duration-ms="8484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcards -->
+        <test-method signature="birthAnniversary()[pri:10, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:16:56 IST" name="birthAnniversary" finished-at="2024-05-08T14:17:05 IST" duration-ms="9599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- birthAnniversary -->
+        <test-method signature="amountButton()[pri:11, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:17:05 IST" name="amountButton" finished-at="2024-05-08T14:17:08 IST" duration-ms="2472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountButton -->
+        <test-method signature="selectedDate()[pri:12, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:17:08 IST" name="selectedDate" finished-at="2024-05-08T14:17:12 IST" duration-ms="3706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectedDate -->
+        <test-method signature="clickNext()[pri:13, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:17:12 IST" name="clickNext" finished-at="2024-05-08T14:17:17 IST" duration-ms="4866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNext -->
+        <test-method signature="form()[pri:14, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:17:17 IST" name="form" finished-at="2024-05-08T14:17:23 IST" duration-ms="5961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Hackathon_Project.TestClass@1d296da]" started-at="2024-05-08T14:17:23 IST" name="end" finished-at="2024-05-08T14:17:26 IST" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Hackathon_Project.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
